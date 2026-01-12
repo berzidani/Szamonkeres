@@ -1,0 +1,6 @@
+@Szamonkeres_BerziDaniel_HostAddress = http://localhost:5189
+
+GET {{Szamonkeres_BerziDaniel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
